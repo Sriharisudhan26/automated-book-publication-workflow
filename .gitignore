@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+venv/
+.env
+chroma/
+*.db
+*.sqlite3
+*.png
+*.txt
+output/
+data/
+chromadb_store/
